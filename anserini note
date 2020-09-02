@@ -1,0 +1,5 @@
+When installing anserini, be sure to follow their instructions. 
+Specifically, they have a "tools" subdirectory which is actually another repo which has been merged. 
+They suggest a specific command to ensure that subdirectories are included when installing anserini
+from that repo. While it may be tempting to try other commands, do exactly what they say from
+the command line. Otherwise, anserini may not work !
