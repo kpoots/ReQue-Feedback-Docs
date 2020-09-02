@@ -1,4 +1,5 @@
-ReQue-Install-Feedback-Docs v0.9
+ReQue-Install-Feedback-Docs v1-Sep-2020
+
 This repository contains comments (documents) written as ReQue was tested. These may help during installation. 
 
 Included is:
